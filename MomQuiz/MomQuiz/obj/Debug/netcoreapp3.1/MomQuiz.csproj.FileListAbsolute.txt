@@ -1,0 +1,13 @@
+C:\Users\Johnny\source\repos\MomQuiz\MomQuiz\bin\Debug\netcoreapp3.1\MomQuiz.exe
+C:\Users\Johnny\source\repos\MomQuiz\MomQuiz\bin\Debug\netcoreapp3.1\MomQuiz.deps.json
+C:\Users\Johnny\source\repos\MomQuiz\MomQuiz\bin\Debug\netcoreapp3.1\MomQuiz.runtimeconfig.json
+C:\Users\Johnny\source\repos\MomQuiz\MomQuiz\bin\Debug\netcoreapp3.1\MomQuiz.runtimeconfig.dev.json
+C:\Users\Johnny\source\repos\MomQuiz\MomQuiz\bin\Debug\netcoreapp3.1\MomQuiz.dll
+C:\Users\Johnny\source\repos\MomQuiz\MomQuiz\bin\Debug\netcoreapp3.1\MomQuiz.pdb
+C:\Users\Johnny\source\repos\MomQuiz\MomQuiz\obj\Debug\netcoreapp3.1\MomQuiz.csprojAssemblyReference.cache
+C:\Users\Johnny\source\repos\MomQuiz\MomQuiz\obj\Debug\netcoreapp3.1\MomQuiz.AssemblyInfoInputs.cache
+C:\Users\Johnny\source\repos\MomQuiz\MomQuiz\obj\Debug\netcoreapp3.1\MomQuiz.AssemblyInfo.cs
+C:\Users\Johnny\source\repos\MomQuiz\MomQuiz\obj\Debug\netcoreapp3.1\MomQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\MomQuiz\MomQuiz\obj\Debug\netcoreapp3.1\MomQuiz.dll
+C:\Users\Johnny\source\repos\MomQuiz\MomQuiz\obj\Debug\netcoreapp3.1\MomQuiz.pdb
+C:\Users\Johnny\source\repos\MomQuiz\MomQuiz\obj\Debug\netcoreapp3.1\MomQuiz.genruntimeconfig.cache
